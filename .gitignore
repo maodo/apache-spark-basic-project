@@ -1,0 +1,4 @@
+keys/
+spark/
+.terraform
+terraform.tfstate

@@ -1,0 +1,1 @@
+scp -i ~/.ssh/gcp -r src/* requirements.txt maodo@34.154.105.54:/home/maodo

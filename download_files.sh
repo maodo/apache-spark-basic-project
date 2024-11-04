@@ -1,0 +1,1 @@
+scp -i ~/.ssh/gcp -rp maodo@34.154.105.54:/home/maodo/output src/output 
